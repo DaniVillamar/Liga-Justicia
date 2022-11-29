@@ -11,3 +11,6 @@ Este es un mensaje editado desde GitHub
 
 ## Hola mundo
 Este es un mensaje que agregamos de Hola mundo
+
+## Cambios Nuevos
+Estos cambios son nuevos
