@@ -14,3 +14,6 @@ Este es un mensaje que agregamos de Hola mundo
 
 ## Cambios Nuevos
 Estos cambios son nuevos
+
+## Cambios Nuevos GitHub
+Estos son cambios realizados desde GitHub y no desde la consola
